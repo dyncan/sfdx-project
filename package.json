@@ -1,0 +1,24 @@
+{
+  "name": "sfdx-simple",
+  "version": "1.0.0",
+  "description": "Peter Scratch Org Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forcedotcom/sfdx-simple.git"
+  },
+  "author": "PeterDong (dynckm@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/forcedotcom/sfdx-simple/issues"
+  },
+  "homepage": "https://github.com/forcedotcom/sfdx-simple#readme",
+  "devDependencies": {
+    "gulp-install": "^1.1.0",
+    "gulp-shell": "^0.6.3",
+    "gulp-zip": "^4.0.0"
+  }
+}
